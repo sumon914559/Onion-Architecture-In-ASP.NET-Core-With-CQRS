@@ -1,0 +1,9 @@
+F:\projects\DotNet\OnionArchitecture\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\projects\DotNet\OnionArchitecture\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\projects\DotNet\OnionArchitecture\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\projects\DotNet\OnionArchitecture\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+F:\projects\DotNet\OnionArchitecture\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\projects\DotNet\OnionArchitecture\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\projects\DotNet\OnionArchitecture\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\projects\DotNet\OnionArchitecture\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\projects\DotNet\OnionArchitecture\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

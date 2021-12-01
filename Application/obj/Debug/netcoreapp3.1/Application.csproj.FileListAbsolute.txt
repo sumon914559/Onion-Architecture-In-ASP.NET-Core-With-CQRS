@@ -1,0 +1,12 @@
+F:\projects\DotNet\OnionArchitecture\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\projects\DotNet\OnionArchitecture\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\projects\DotNet\OnionArchitecture\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\projects\DotNet\OnionArchitecture\Application\bin\Debug\netcoreapp3.1\Domain.dll
+F:\projects\DotNet\OnionArchitecture\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\projects\DotNet\OnionArchitecture\Application\obj\Debug\netcoreapp3.1\Application.pdb
